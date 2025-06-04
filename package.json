@@ -1,0 +1,22 @@
+{
+  "name": "dueon-my-map-function",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dueonhan/my-map-function.git"
+  },
+  "keywords": [
+    "function"
+  ],
+  "author": "dueon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dueonhan/my-map-function/issues"
+  },
+  "homepage": "https://github.com/dueonhan/my-map-function#readme"
+}
