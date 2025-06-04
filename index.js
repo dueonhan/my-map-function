@@ -10,4 +10,4 @@ function myMap(cbFn) {
 
 
 
-module.experts = myMap
+module.exports = myMap
