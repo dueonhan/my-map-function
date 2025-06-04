@@ -8,6 +8,6 @@ function myMap(cbFn) {
     }
 }
 
-module.experts = {
-    myMap
-}
+
+
+module.experts = myMap
